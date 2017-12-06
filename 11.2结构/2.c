@@ -1,6 +1,7 @@
 /*用->表示指针所指的结构变量中的成员*/
 #include <stdio.h>
 #include <malloc.h>
+
 struct point{
 	int x;/*类似Python类中的属性*/
 	int y;
